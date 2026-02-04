@@ -1,0 +1,139 @@
+annotated-types==0.7.0
+attrs==24.2.0
+Automat==24.8.1
+Brotli @ file:///C:/b/abs_c415aux9ra/croot/brotli-split_1736182803933/work
+buildtools==1.0.6
+causal-conv1d @ file:///E:/Documents/mamba/causal_conv1d-1.1.1-cp310-cp310-win_amd64.whl#sha256=cb01642adf31a9c805d71bccdb65cc7ac09d5fa8db2598e8bb22b6b1a3e55b8e
+certifi==2025.4.26
+cffi==1.17.1
+charset-normalizer==2.1.1
+click==8.1.7
+cloudpickle==3.1.1
+cmake==3.30.5
+colorama==0.4.6
+comtypes==1.4.11
+constantly==23.10.4
+contourpy @ file:///C:/b/abs_f2u2o_8s9g/croot/contourpy_1732540071787/work
+cycler @ file:///tmp/build/80754af9/cycler_1637851556182/work
+docker-pycreds==0.4.0
+docopt==0.6.2
+easyocr==1.7.2
+einops==0.8.0
+exceptiongroup==1.3.0
+filelock==3.13.1
+fonttools @ file:///C:/b/abs_4crkswws2h/croot/fonttools_1737040078745/work
+fsspec==2024.2.0
+furl==2.1.3
+gitdb==4.0.11
+GitPython==3.1.43
+grad-cam==1.5.4
+greenlet==3.1.1
+h11==0.16.0
+huggingface-hub==0.26.2
+hyperlink==21.0.0
+idna==3.4
+imageio==2.36.0
+incremental==24.7.2
+Jinja2==3.1.3
+joblib @ file:///C:/b/abs_0ahqdkwgvn/croot/joblib_1754310214981/work
+kiwisolver @ file:///C:/b/abs_faf90xet7a/croot/kiwisolver_1737040915779/work
+lazy_loader==0.4
+llvmlite==0.44.0
+lxml==5.4.0
+mamba-ssm @ file:///E:/Documents/mamba/mamba_ssm-1.1.3-py3-none-any.whl#sha256=12184e2de3ddbca038a321609f9093640b8869acaf920d5daa667c1061cc8590
+MarkupSafe==2.1.5
+matplotlib==3.10.0
+matplotlib-inline==0.1.7
+mkl-service==2.4.0
+mkl_fft @ file:///C:/Users/dev-admin/mkl/mkl_fft_1730823082242/work
+mkl_random @ file:///C:/Users/dev-admin/mkl/mkl_random_1730822522280/work
+mpmath==1.3.0
+networkx==3.2.1
+ninja==1.13.0
+numba==0.61.2
+numpy==1.26.4
+opencv-contrib-python==4.12.0.88
+opencv-python-headless==4.12.0.88
+optype==0.9.3
+orderedmultidict==1.0.1
+outcome==1.3.0.post0
+packaging @ file:///C:/b/abs_c3vlh0z4jw/croot/packaging_1720101866539/work
+pandas==2.3.2
+pandas-stubs==2.3.3.251201
+patsy==1.0.1
+pdf2image==1.17.0
+pillow==10.2.0
+platformdirs==4.3.6
+protobuf==5.29.1
+psutil==6.1.0
+pyclipper==1.3.0.post6
+pycparser==2.22
+pydantic==2.10.3
+pydantic_core==2.27.1
+pydicom==3.0.1
+pyerf==1.0.1
+pylibjpeg==2.0.1
+pylibjpeg-libjpeg==2.3.0
+pylibjpeg-openjpeg==2.4.0
+pymermaid==1.7.1
+pynndescent==0.5.13
+pyparsing @ file:///C:/b/abs_40z8gyj9wi/croot/pyparsing_1731445739241/work
+PyQt6==6.7.1
+PyQt6_sip @ file:///C:/b/abs_f47pmp6xmn/croot/pyqt-split_1744804513582/work/pyqt_sip
+PySocks==1.7.1
+python-bidi==0.6.6
+python-dateutil @ file:///C:/b/abs_3au_koqnbs/croot/python-dateutil_1716495777160/work
+python-pptx==1.0.2
+pytz==2025.2
+PyYAML==6.0.2
+redo==3.0.0
+regex==2024.9.11
+requests==2.32.3
+safetensors==0.4.5
+scikit-image==0.24.0
+scikit-learn @ file:///C:/b/abs_0dwalqot3o/croot/scikit-learn_1737988780693/work/dist/scikit_learn-1.6.1-cp310-cp310-win_amd64.whl#sha256=d1337168ee64380b26e38a8be42467bd0f3a1db3d3118e6244e11a2be8b05064
+scikits.bootstrap==1.1.0
+scipy @ file:///C:/b/abs_71q96u23a4/croot/scipy_1747238057723/work/dist/scipy-1.15.3-cp310-cp310-win_amd64.whl#sha256=06013d45c5cad262bccdca1fbe5c25a720be04ae66dc83d75d1f749d118a7346
+scipy-stubs==1.15.3.0
+seaborn==0.13.2
+selenium==4.33.0
+sentry-sdk==2.19.2
+setproctitle==1.3.4
+shap==0.47.1
+shapely==2.1.1
+simplejson==3.19.3
+sip @ file:///C:/b/abs_5cto136kse/croot/sip_1738856220313/work
+six @ file:///C:/b/abs_149wuyuo1o/croot/six_1744271521515/work
+slicer==0.0.8
+smmap==5.0.1
+sniffio==1.3.1
+sortedcontainers==2.4.0
+SQLAlchemy==2.0.36
+statsmodels==0.14.4
+sympy==1.13.1
+threadpoolctl @ file:///C:/b/abs_def0dwqlft/croot/threadpoolctl_1719407816649/work
+tifffile==2024.9.20
+tokenizers==0.20.1
+tomli==2.0.2
+torch==2.1.1+cu118
+torchaudio==2.1.1+cu118
+torchvision==0.16.1+cu118
+tornado @ file:///C:/b/abs_7dzpc171lf/croot/tornado_1748956950306/work
+tqdm==4.66.6
+traitlets==5.14.3
+transformers==4.46.1
+trio==0.30.0
+trio-websocket==0.12.2
+triton @ file:///E:/Documents/mamba/triton-2.0.0-cp310-cp310-win_amd64.whl#sha256=91a6ec395022743269c942df7af01b210f642fb633d146a811be05a455adbae2
+ttach==0.0.3
+Twisted==24.10.0
+typing_extensions==4.13.2
+tzdata==2025.2
+umap-learn==0.5.7
+unicodedata2 @ file:///C:/b/abs_dfnftvxi4k/croot/unicodedata2_1736543771112/work
+urllib3==2.4.0
+wandb==0.19.0
+websocket-client==1.8.0
+wsproto==1.2.0
+XlsxWriter==3.2.3
+zope.interface==7.1.1
